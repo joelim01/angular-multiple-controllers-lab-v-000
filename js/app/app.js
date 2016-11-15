@@ -1,2 +1,4 @@
 angular
-    .module('app', []);
+    .module('app', [])
+    .controller('ContactController')
+    .controller('StaffController')
